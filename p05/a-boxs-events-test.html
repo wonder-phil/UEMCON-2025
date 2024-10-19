@@ -11,10 +11,13 @@
 			console.log("init 1");
 			let el = this.el;
 			let data = this.data;
+			
 			console.log("init 2");
 			
 			this.toggleColor = function() { // adding a method
+				
 				el.setAttribute('color','orange');
+				
 				console.log("toggleColor event");
 				alert("clicked");
 				
@@ -28,7 +31,7 @@
 		}
 	});
 	</script>
-  <!-- https://jsfiddle.net/w97t12rp/  -->
+     <!-- https://jsfiddle.net/w97t12rp/  -->
 	
 	  <a-scene  cursor="rayOrigin: mouse;" raycaster="objects: .rayclick;">
 		

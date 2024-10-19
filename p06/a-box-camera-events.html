@@ -6,10 +6,9 @@
   <body>
 	
     <a-scene>
-	<a-camera wasd-controls-enabled="false" look-controls="reverseMouseDrag:true"
-			position="0 10 10"
-			animation='attribute:position; dur:5000; easing:linear; to:0 1.6 -10'>
-	</a-camera>
+	
+	<a-entity camera wasd-controls position="0 1.6 10"></a-entity>
+	
       <a-box  id="PGB box" position="0 2 -3" rotation="45 45 45" color="green">
 		
 	  </a-box>
@@ -17,3 +16,5 @@
     </a-scene>
   </body>
 </html>
+
+<!-- wasd-controls-enabled="false" look-controls="reverseMouseDrag:true" -->
