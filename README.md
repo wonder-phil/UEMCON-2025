@@ -1,5 +1,8 @@
-﻿# IEMCON-2024
+﻿# AI-IoT -2025
 ##
-## At University of California, Berkeley
+## In Seattle, WA
+#
+#
 
-> git clone https://github.com/wonder-phil/IEMCON-2024
+> git clone https://github.com/wonder-phil/AI-IoT-2025
+
