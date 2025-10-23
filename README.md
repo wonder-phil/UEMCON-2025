@@ -1,8 +1,9 @@
-﻿# AI-IoT -2025
+﻿# UEMCON -2025
 ##
-## In Seattle, WA
+## IBM Louis V. Gerstner, Jr. Center for Learning
 #
 #
 
-> git clone https://github.com/wonder-phil/AI-IoT-2025
+> git clone https://github.com/wonder-phil/UEMCON-2025
+
 
